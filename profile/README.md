@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/CodeneDiary/.github/edit/main/profile/기능.png" />
+      <img src="https://raw.githubusercontent.com/CodeneDiary/.github/main/profile/기능.png" />
     </td>
   </tr>
 </table>
